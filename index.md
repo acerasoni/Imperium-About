@@ -28,4 +28,4 @@ Next, you can generate a Sync Code to enter on the merchant's website during the
 
 You can view your subscription status and details. You may suspend or delete the subscription instantly, although the merchant will be immediately notified.
 
-![Manage](https://user-images.githubusercontent.com/32521086/87014287-37b02000-c1cc-11ea-8cb4-178440021ad2.png)
+![Manage](https://user-images.githubusercontent.com/32521086/87014417-67f7be80-c1cc-11ea-8adb-7cb176d4ac92.png)
