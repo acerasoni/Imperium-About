@@ -10,7 +10,9 @@ The project is currently under beta phase development and is not yet available f
 
 Take me to:
 
-[Android Application](#aa)  [Merchant Integration](#mi)  [Payment Portal](#pp)
+[Android Application](#aa)  
+[Merchant Integration](#mi)  
+[Payment Portal](#pp)
 
 # <a name="aa"></a>Android Application
 
