@@ -49,9 +49,12 @@ Merchants must setup the Sync Up page in their subscription process. They may do
 
 ![SyncUp](https://user-images.githubusercontent.com/32521086/87015372-a0e46300-c1cd-11ea-8f01-0b78bf0eb665.png)
 
-The customer will receive a confirmation on the Android application.
-
-
 # <a name="pp"></a>Payment Portal
+
+Merchants can bill their customers through the payment portal. They can select a One-Time or Recurring options for the amount entered. The JSON response body will display the outcome of the transaction. The transaction are implemented through authorized payment tokens. This means that the card details are never exposed, and that only authorized merchants can utilize the payment tokens assigned to them.
+
+If a customer pauses or deletes their subscription, this will immediately impact transactions attempted from the merchant. Below is the outcome shown when a subscription has been paused.
+
+![Payment](https://user-images.githubusercontent.com/32521086/87017443-44cf0e00-c1d0-11ea-8225-c08e11025c9d.png)
 
 ### Legal Disclaimer: I claim no copyright on any trademarks shown above, including Visa, MasterCard and Netflix logos. These companies do not endorse the product in any way, and their logos have been used for purely expository purpose.
