@@ -40,6 +40,6 @@ You can view your subscription status and details. You may suspend or delete the
 
 # <a name="mi"></a>Merchant Integration
 
-#<a name="pp"></a>Payment Portal
+# <a name="pp"></a>Payment Portal
 
 # Legal Disclaimer: I claim no copyright on any trademarks shown above, including Visa, MasterCard and Netflix logos. These companies do not endorse the product in any way, and have been used for purely expository purpose.
