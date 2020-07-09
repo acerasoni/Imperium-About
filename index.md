@@ -37,11 +37,20 @@ You can view your subscription status and details. You may suspend or delete the
 
 ![Manage](https://user-images.githubusercontent.com/32521086/87014417-67f7be80-c1cc-11ea-8adb-7cb176d4ac92.png)
 
+## Statistics
+
+The application provides overall statistics including monthly spending and a pie chart of subscription prices.
+
+![Stats](https://user-images.githubusercontent.com/32521086/87017173-f0c42980-c1cf-11ea-9710-2f18e74538bb.png)
+
 # <a name="mi"></a>Merchant Integration
 
 Merchants must setup the Sync Up page in their subscription process. They may do so through the use of a simple client-side SDK, that will create the input field, handle all necessary network requests. As good practice, the merchant should display the outcome of the sync up attempt.
 
 ![SyncUp](https://user-images.githubusercontent.com/32521086/87015372-a0e46300-c1cd-11ea-8f01-0b78bf0eb665.png)
+
+The customer will receive a confirmation on the Android application.
+
 
 # <a name="pp"></a>Payment Portal
 
