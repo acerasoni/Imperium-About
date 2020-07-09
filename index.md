@@ -9,7 +9,6 @@ The solution integrates seamlessly into eCommerce websites, and provides merchan
 The project is currently under beta phase development and is not yet available for usage. For business enquiries, contact [business.imperiumapp@gmail.com](mailto:business.imperiumapp@gmail.com)
 
 Take me to:
-
 [Android Application](#aa)  
 [Merchant Integration](#mi)  
 [Payment Portal](#pp)
