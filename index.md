@@ -8,7 +8,13 @@ The solution integrates seamlessly into eCommerce websites, and provides merchan
 
 The project is currently under beta phase development and is not yet available for usage. For business enquiries, contact [mailto](mailto:business.imperiumapp@gmail.com)
 
-# Android Application
+Take me to:
+
+[Android Application](#aa)
+[Merchant Integration](#mi)
+[Payment Portal](#pp)
+
+# <a name="aa"></a>Android Application
 
 ## Adding a card
 
@@ -32,7 +38,8 @@ You can view your subscription status and details. You may suspend or delete the
 
 ![Manage](https://user-images.githubusercontent.com/32521086/87014417-67f7be80-c1cc-11ea-8adb-7cb176d4ac92.png)
 
-# Merchant Integration
+# <a name="mi"></a>Merchant Integration
 
+#<a name="pp"></a>Payment Portal
 
 # Legal Disclaimer: I claim no copyright on any trademarks shown above, including Visa, MasterCard and Netflix logos. These companies do not endorse the product in any way, and have been used for purely expository purpose.
