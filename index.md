@@ -6,8 +6,16 @@ The system allows customers to subscribe to online services and control their su
 
 The solution integrates seamlessly into eCommerce websites, and provides merchants with a payment portal through which they can bill their customers. The foremost focus of this project has been security of cardholder data, therefore this system implements payment tokenization and encrypts all data on the customer's device. 
 
-## Android
+## Android Application
 
 The Android application can be used to manage subscriptions and generate Sync Codes, which can be entered on a merchant's website during the subscription process. 
 
+You must first add a card through the Add Card screen. The application is integrated with Google Wallet, so that you may automatically populate the card data. 
+
 ![AddCard](https://user-images.githubusercontent.com/32521086/87012507-aa6bcc00-c1c9-11ea-94c4-5a1bb6b8a17e.png)
+
+The card data is encrypted on the mobile device with a unique encryption key. It is then sent to the backend through a HTTPS-secured connection and irreversibly replaced with payment token.
+
+Next, you can generate a Sync Code to enter on the merchant's website during the subscription process.
+
+![SyncCode](https://user-images.githubusercontent.com/32521086/87013502-097e1080-c1cb-11ea-823b-45611eadff6e.png)
