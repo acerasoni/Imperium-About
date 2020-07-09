@@ -6,13 +6,11 @@ The system allows customers to subscribe to online services and control their su
 
 The solution integrates seamlessly into eCommerce websites, and provides merchants with a payment portal through which they can bill their customers. The foremost focus of this project is the security of cardholder data, therefore this system implements payment tokenization and encrypts all data on the customer's device. 
 
-The project is currently under beta phase development and is not yet available for usage. For business enquiries, contact [mailto](mailto:business.imperiumapp@gmail.com)
+The project is currently under beta phase development and is not yet available for usage. For business enquiries, contact [business.imperiumapp@gmail.com](mailto:business.imperiumapp@gmail.com)
 
 Take me to:
 
-[Android Application](#aa)
-[Merchant Integration](#mi)
-[Payment Portal](#pp)
+[Android Application](#aa)  [Merchant Integration](#mi)  [Payment Portal](#pp)
 
 # <a name="aa"></a>Android Application
 
