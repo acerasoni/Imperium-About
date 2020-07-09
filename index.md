@@ -6,6 +6,8 @@ The system allows customers to subscribe to online services and control their su
 
 The solution integrates seamlessly into eCommerce websites, and provides merchants with a payment portal through which they can bill their customers. The foremost focus of this project is the security of cardholder data, therefore this system implements payment tokenization and encrypts all data on the customer's device. 
 
+The project is currently under beta phase development and is not yet available for usage. For business enquiries, contact [mailto](mailto:business.imperiumapp@gmail.com)
+
 # Android Application
 
 ## Adding a card
@@ -29,3 +31,8 @@ Next, you can generate a Sync Code to enter on the merchant's website during the
 You can view your subscription status and details. You may suspend or delete the subscription instantly, although the merchant will be immediately notified.
 
 ![Manage](https://user-images.githubusercontent.com/32521086/87014417-67f7be80-c1cc-11ea-8adb-7cb176d4ac92.png)
+
+# Merchant Integration
+
+
+# Legal Disclaimer: I claim no copyright on any trademarks shown above, including Visa, MasterCard and Netflix logos. These companies do not endorse the product in any way, and have been used for purely expository purpose.
