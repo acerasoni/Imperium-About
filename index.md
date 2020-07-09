@@ -4,7 +4,7 @@ Imperium is a subscription management platform. It has been developed for my Und
 
 The system allows customers to subscribe to online services and control their subscription status (including suspension and deletion) directly from the Android application. 
 
-The solution integrates seamlessly into eCommerce websites, and provides merchants with a payment portal through which they can bill their customers. The foremost focus of this project has been security of cardholder data, therefore this system implements payment tokenization and encrypts all data on the customer's device. 
+The solution integrates seamlessly into eCommerce websites, and provides merchants with a payment portal through which they can bill their customers. The foremost focus of this project is the security of cardholder data, therefore this system implements payment tokenization and encrypts all data on the customer's device. 
 
 # Android Application
 
