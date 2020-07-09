@@ -45,7 +45,7 @@ The application provides overall statistics including monthly spending and a pie
 
 # <a name="mi"></a>Merchant Integration
 
-Merchants must setup the Sync Up page in their subscription process. They may do so through the use of a simple client-side SDK, that will create the input field, handle all necessary network requests. As good practice, the merchant should display the outcome of the sync up attempt.
+Merchants must setup the Sync Up page in their subscription process. They may do so through the use of a simple client-side SDK that will create the input field and handle all necessary network requests. As good practice, the merchant should display the outcome of the sync up attempt.
 
 ![SyncUp](https://user-images.githubusercontent.com/32521086/87015372-a0e46300-c1cd-11ea-8f01-0b78bf0eb665.png)
 
